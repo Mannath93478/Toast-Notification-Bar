@@ -11,7 +11,7 @@ This toast notification bar provides a sleek and user-friendly way to display im
 
 Live Demo:
 
-
+https://mannath-toast-notification.netlify.app/
 
 ![alt text](demo.png)
 
